@@ -1,16 +1,31 @@
-## Hi there 👋
+# Hi, I'm Amit Yadav 👋
 
-<!--
-**yadavamit4git/yadavamit4git** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 MCA Student
 
-Here are some ideas to get you started:
+💻 Aspiring Web Developer
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### About Me
+- Currently learning Web Development.
+- Interested in MERN Stack Development.
+- Learning Java, Python, PHP and React.
+- Working on academic and personal projects.
+
+### Skills
+- HTML
+- CSS
+- JavaScript
+- React.js
+- Node.js
+- Express.js
+- MongoDB
+- PHP
+- Laravel
+- Java
+
+### Goals
+- Build real-world projects.
+- Improve my programming skills.
+- Become a professional software developer.
+
+### Connect with Me
+- GitHub: [My GitHub Profile](https://github.com/yadavamit4git)
